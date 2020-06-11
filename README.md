@@ -10,7 +10,7 @@ and company offering the services are the cloud providers
 makes running a business easier and effiecient
 # cloud computing services
 * compute power-how much processing your computer can do
-##### the cloud provider can maintain your software but if you want to handle the maintenance you can create a vm-(an emulation of computer the difference being the vm is being run in the cloud so no need of buying the hardware)
+* the cloud provider can maintain your software but if you want to handle the maintenance you can create a vm-(an emulation of computer the difference being the vm is being run in the cloud so no need of buying the hardware)
 with the vm you can install whatever tools you need to run the tasks in the cloud 
 vm uses guest os
 other computing choices include 
@@ -32,7 +32,7 @@ companies that already established can do gradual movement to the cloud - lift a
 
 1. # cost Effective 
    * with pay-as-you-go/consumption based  
-   * no upfront charges(layman language-deposit),
+  *  no upfront charges(layman language-deposit)
   * no need to purchase infrastructure that you dont use.
   * pay for additional resources that only when needed
  *  you can stop paying for resources that you dont use any more
