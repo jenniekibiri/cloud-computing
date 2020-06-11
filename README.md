@@ -29,31 +29,35 @@ data files it supports different formats
 the advantage of using cloud based storage is the you can scale to meet your needs 
 # Benefits of cloud computing
 companies that already established can do gradual movement to the cloud - lift and ship while start up companies can start in the cloud
+
 1. # cost Effective 
    * with pay-as-you-go/consumption based  
-   #### no upfront charges(layman language-deposit),
-  #### no need to purchase infrastructure that you dont use.
-  #### pay for additional resources that only when needed
-  #### you can stop paying for resources that you dont use any more
+   * no upfront charges(layman language-deposit),
+  * no need to purchase infrastructure that you dont use.
+  * pay for additional resources that only when needed
+ *  you can stop paying for resources that you dont use any more
 this allows cost prediction for each period .....history usage is provided by the cloud provider
 
 
 2. # scalable
 you can increase or decrease the resources and services used based on workload for a particular time
-* vertical scaling
-
- 'scaling up' - adding resources to increase the power of the server eg. more cpus and memory
-* vertical scaling
-'scaling out '-adding more servers that function together as one units
-
+* (vertical scaling)
+scaling up- adding resources to increase the power of the server eg. more cpus and memory
+* (vertical scaling)
+'scaling out'-adding more servers that function together as one units
 
 3. # elastic
 as workload changes to spike or drop in demand a cloud computing system can automatically add or remove resources - workload can spike due to increase in traffic
+
 4. # current 
 handles upgrades,maintenance ,s/w patches  and disk failures this ensure you're using the lastest tools
+
 5. # reliablple 
 cloud computing makes data available.Offers backups disaster recovery and data reprication
+
 6. # global
  redundant datacenters in various region all over the globe.
- this give local presence close to your customers to give them the best response time possible no matter where in the world they are.
+ this give local presence
+  close to your customers to give them the best response time possible no matter where in the world they are.
+
  7. # secure 
