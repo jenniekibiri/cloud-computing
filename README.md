@@ -52,7 +52,7 @@ as workload changes to spike or drop in demand a cloud computing system can auto
 4. # current 
 handles upgrades,maintenance ,s/w patches  and disk failures this ensure you're using the lastest tools
 
-5. # reliablple 
+5. # reliable 
 cloud computing makes data available.Offers backups disaster recovery and data reprication
 
 6. # global
