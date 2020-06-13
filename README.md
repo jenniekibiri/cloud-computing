@@ -99,3 +99,52 @@ Demand and growth can be unpredictable and can outpace expectation, which is a c
 
 ![opex/capex-grap](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/media/3c-capexvsopex.png)
 if your service peaks one month, you can scale to demand and pay a larger bill for the month. If the following month the demand drops, you can reduce the used resources and be charged less. This agility lets you manage your costs dynamically, optimizing spending as requirements change.
+
+# cloud deployment models
+### public 
+
+you have no local hardware to manage or keep up-to-date – everything runs on your cloud provider's hardware.
+## Advantages of public
+ * high scalability
+ * pay as you go
+ * you're not responsible for maintenance updates
+
+ less technical knowledge to use and set up
+ ## disadvantages
+ * some security requirements cannot be met
+ * some govtpolices/industry standards cannot be meet
+
+## private  
+
+you create a cloud environment in your own datacenter and provide self-service access to compute resources to users in your organization.you're responsible for maintenance of the hardware and software services you provide.
+
+# hybrid 
+'
+A hybrid cloud combines public and private clouds, allowing you to run your applications in the most appropriate location.
+
+ ## advantages
+
+ You can keep any systems running and accessible that use out-of-date hardware or an out-of-date operating system
+ ## disadvantages
+ * hard to set up
+ * its expensive 
+
+ # Types of cloud services
+
+## Infrastructure as a service (IaaS)
+
+most flexible
+t aims to give you the most control over the provided hardware that runs your application (IT infrastructure servers and virtual machines (VMs), storage, and operating systems). Instead of buying hardware, with IaaS, you rent it. It's an instant computing infrastructure, provisioned and managed over the internet.
+* there is shared responsibility model.
+- the cloud customer is responsible for ensuring the service they are using is configured correctly
+- the cloud provider is responsible for ensuring the cloud infrastructure is functioning correctly;
+ Iaas is mostly used for -migrating workloads
+                          - test and development
+                          -Storage, backup, and recover
+## Platform as a service (PaaS)
+PaaS provides an environment for building, testing, and deploying software applications. The goal of PaaS is to help you create an application quickly without managing the underlying infrastructure. For example, when deploying a web application using PaaS, you don't have to install an operating system, web server, or even system updates.
+
+## Software as a service (SaaS)
+SaaS is software that is centrally hosted and managed for the end customer. It is usually based on an architecture where one version of the application is used for all customers, and licensed through a monthly or annual subscription. Office 365, Skype
+ 
+ ![clearpic](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/media/5-layer-diagram.png)
