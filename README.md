@@ -61,3 +61,40 @@ cloud computing makes data available.Offers backups disaster recovery and data r
   close to your customers to give them the best response time possible no matter where in the world they are.
 
  7. # secure 
+
+ # Economies of scale
+ ability to do things effieciently at a lower cost
+ cloud helps users save in ways such  as acquire  h/w at a lower cost tax saving,low power price cooling and high speed network
+
+ # Approaches to investment
+
+ ## Capital expenditure (capEx)
+spending money on physical infrastructure up front, and then deducting that expenses from your tax bill over time CapEx is an upfront cost, which has a value that reduces over time.
+
+
+
+## Operational Expenditure (OpEx)
+
+ spending money on services or products now and being billed for them now.There's no upfront cost. You pay for a service or product as you use it.
+
+# CapEx computing costs 
+
+* server costs
+* storage costs 
+* network costs
+* backup and archive tools
+* disaster recovery
+# OpEx computing 
+
+With cloud computing, many of the costs associated with an on-premises datacenter are shifted to the service provider
+* Leasing software and customized features -you can actively manage subscriptions 
+* scaling charges based on usage 
+* Billing at the user or organization level.
+# benefits of capex
+
+you plan  your expenses at the start,the costs are fixed 
+# benefits of opex
+
+Demand and growth can be unpredictable and can outpace expectation, which is a challenge for the CapEx model as shown in the following graph.
+
+![opex/capex-grap](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/media/3c-capexvsopex.png)
