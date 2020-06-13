@@ -98,3 +98,4 @@ you plan  your expenses at the start,the costs are fixed
 Demand and growth can be unpredictable and can outpace expectation, which is a challenge for the CapEx model as shown in the following graph.
 
 ![opex/capex-grap](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/media/3c-capexvsopex.png)
+if your service peaks one month, you can scale to demand and pay a larger bill for the month. If the following month the demand drops, you can reduce the used resources and be charged less. This agility lets you manage your costs dynamically, optimizing spending as requirements change.
