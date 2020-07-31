@@ -148,3 +148,34 @@ PaaS provides an environment for building, testing, and deploying software appli
 SaaS is software that is centrally hosted and managed for the end customer. It is usually based on an architecture where one version of the application is used for all customers, and licensed through a monthly or annual subscription. Office 365, Skype
  
  ![clearpic](https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/media/5-layer-diagram.png)
+ # What is an App Service?
+Azure App Service is an HTTP-based service that enables you to build and host many types of web-based solutions without managing infrastructure. For 
+# Creating resources in Azure
+ The resource group allows us to administer all the services, disks, network interfaces, and other elements that potentially make up our solution as a unit. 
+ # Choosing a location
+ # azure cloud shell 
+ browser based cmd for managing azure resources
+ * work with the right subscription
+ * az - using the cli
+ * az-account -list
+ by default the cmd returns json string 
+ so we format the output into table
+ * az-group-list ---- list the resource group
+ * az webapp stop \ stops the site from running
+ * syntax
+ az webapp start \
+    --resource-group learn-c2fa7e33-7eb2-438e-b0e7-7e865970ca34 \
+    --name <web app name>
+    Scale refers to adding network bandwidth, memory, storage, or compute power to achieve better performance.
+    * scale up/vertical -increase the memory, storage, or compute power on an existing virtual machine.
+    scale out/horizontal-add extra virtual machines to power your application
+
+# Core Cloud Services - Azure architecture and service guarantees
+## Understand Datacenters and Regions in Azure
+What is a region?
+A region is a geographical area on the planet containing at least one, but potentially multiple datacenters that are nearby and networked together with a low-latency network.
+## Geographies in Azure
+An Azure geography is a discrete market typically containing two or more regions that preserve data residency and compliance boundaries
+## Availability Zone
+Availability Zones are physically separate datacenters within an Azure region.
+
